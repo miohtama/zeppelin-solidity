@@ -73,6 +73,7 @@ Interested in contributing to OpenZeppelin?
 - [Ether.camp](http://www.ether.camp/)
 - [Aragon](https://aragon.one/)
 - [Wings](https://wings.ai/)
+- [TokenMarket](https://tokenmarket.net/)
 
 among others...
 
